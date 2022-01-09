@@ -1,4 +1,4 @@
-package lambdas;
+package lambdas.exemplo;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
